@@ -46,7 +46,6 @@ ol {
   align-items: flex-end;
   gap: 30px;
   width: 1140px;
-  height: 534px;
 }
 
 .result__video-container {
@@ -199,10 +198,6 @@ ol {
   padding: 6px 73.5px;
 }
 
-.content__details {
-  align-self: self-start;
-}
-
 .title {
   font-family: 'Oswald', sans-serif;
   font-size: 75px;
@@ -216,7 +211,7 @@ ol {
 
 .content__list {
   position: relative;
-  max-height: 298px;
+  height: 300px;
   margin-top: 26px;
   overflow: auto;
 }
